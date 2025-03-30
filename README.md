@@ -83,7 +83,7 @@ To execute the main script, run:
 
 ```bash
 cd ReportBuilder
-python ReportBuilder/practice.py
+python practice.py
 ```
 
 ## Documentation
