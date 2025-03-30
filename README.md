@@ -82,7 +82,8 @@ pip install -r requirements.txt
 To execute the main script, run:
 
 ```bash
-python practice.py
+cd ReportBuilder
+python ReportBuilder/practice.py
 ```
 
 ## Documentation
